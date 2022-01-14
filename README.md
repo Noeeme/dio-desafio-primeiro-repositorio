@@ -1,4 +1,4 @@
-# Dio primeiro repositório
+# DIO primeiro repositório
 Repositório criado para desafio sobre git/github
 
 ## Links úteis
